@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## see https://docs.microsoft.com/en-us/office365/enterprise/office-365-ip-web-service
+## endpoint json can be downloaded from https://endpoints.office.com/endpoints/Worldwide?ClientRequestId=b10c5ed1-bad1-445f-b386-b919946339a7
+
 #O365 master group object name
 group="Group_O365" 
 
